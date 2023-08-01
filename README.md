@@ -245,7 +245,7 @@
 </br>
 <div align="center">
  <a href="https://github.com/jonathasoliveira1">
-   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=jonathasoliveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="john" />
+   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=JonathasOlist&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="john" />
  </a>
  </br>
  </br>
@@ -256,7 +256,7 @@
 </br>
  </br>
  <a href="https://github.com/jonathasoliveira1">
-   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasoliveira1&layout=compact&langs_count=7&theme=dracula" alt="john" />
+   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasOlist&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="john" />
  </a>
 </div>
 <p></p>
