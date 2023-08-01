@@ -260,5 +260,5 @@
  </a>
 </div>
 <p></p>
-<img align="center" src="" width="100%" alt="Ondas animadas do Footer" />
+
 
