@@ -12,8 +12,8 @@
 </br>
 <li>Apaixonado por Programação, Animes, Jogos e Música.</li>
   <li>Com  de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end.</li>
-  <li>Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-  <li>Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema e em <strong>Java</strong>.</li>
+  <li>Estou me especializando em Front-end & CyberSecurity, mas tenho noções de Back-end e Mobile, meu objetivo a longo prazo é me tornar um Blue Team.</li>
+  <li>Evoluindo continuamente em <strong>CyberSecurity</strong> e em seu ecossistema e em <strong>Python</strong>.</li>
   <li>Tenho inglês intermediário.</li>
   <li>
     <details>
@@ -72,7 +72,7 @@
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
         <sub>
           <b>
-            <pre>Gitflow</pre>
+            <pre>Git & Github</pre>
           </b>
         </sub>
       </a>
@@ -85,26 +85,6 @@
         <sub>
           <b>
             <pre>Firebase</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react-hook-form.com/">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
-        <sub>
-          <b>
-            <pre>React Hook Form</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://graphql.org/">
-        <img src="https://skillicons.dev/icons?i=graphql" width="65px" alt="GraphQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>GraphQL</pre>
           </b>
         </sub>
       </a>
@@ -187,7 +167,7 @@
         <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
         <sub>
           <b>
-            <pre>CSS3</pre>
+            <pre>CSS5</pre>
           </b>
         </sub>
       </a>
