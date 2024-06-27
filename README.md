@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
   <a href="(https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&redirect=true)" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=619lsj6ky8jguje9bjmnos5ul&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Música que está tocando no Spotify do Jonathas no momento" />
+    <img src="(https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&redirect=true)" alt="Música que está tocando no Spotify do Jonathas no momento" />
   </a>
 </div>
 <hr/>
