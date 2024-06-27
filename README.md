@@ -27,11 +27,10 @@
   </li>
 </ul>
 <br/>
-<div align="center">
-  <a href="(https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&redirect=true)" target="_blank">
-    <img src="(https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=619lsj6ky8jguje9bjmnos5ul&redirect=true)" alt="Música que está tocando no Spotify do Jonathas no momento" />
-  </a>
-</div>
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 <hr/>
 
 <img align="center" src="https://i.imgur.com/SDl1KIg.png" width="100%" alt="Título da seção Minha Stack" />
